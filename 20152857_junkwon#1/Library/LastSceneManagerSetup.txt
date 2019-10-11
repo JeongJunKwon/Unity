@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/prac2.unity
+- path: Assets/Scenes/prac1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
